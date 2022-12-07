@@ -1,0 +1,8 @@
+black
+flake8-isort
+flake8
+pip-tools
+pre-commit
+beautifulsoup4
+lxml
+html5lib
